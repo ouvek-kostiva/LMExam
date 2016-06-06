@@ -1,6 +1,6 @@
 # LMExam
 
-* After uploading it to a machine running apache and mysql use init/index.php create tables and default account in database
+* After uploading it to a machine running php, apache and mysql use init/index.php create tables and default account in database
  
  Default Account
 
@@ -10,7 +10,7 @@
 
  Password : Admin
 
-* 在將檔案放入有Apache與Mysql的電腦後用 init 資料夾下的 index.php 建立資料表及預設帳戶 Admin 
+* 在將檔案放入有PHP, Apache與Mysql的電腦後用 init 資料夾下的 index.php 建立資料表及預設帳戶 Admin 
 
  預設帳戶
 

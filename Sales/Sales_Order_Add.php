@@ -616,10 +616,10 @@ if(isset($_GET['view'])){
       <ul class="nav nav-tabs">
         <li role="presentation"><a href="./Sales_Quotation_Add.php">報價</a></li>
         <li role="presentation" class="active"><a>訂單</a></li>
-        <li role="presentation"><a href="./Goods_Received_Add.php">收貨</a></li>
-        <li role="presentation"><a href="./Receipt_Add.php">發票</a></li>
-        <li role="presentation"><a href="./Payment_Add.php">付款</a></li>
-        <li role="presentation"><a href="./Reject_Add.php">退貨</a></li>
+        <li role="presentation"><a href="./Delivery_Add.php">出貨</a></li>
+        <li role="presentation"><a href="./Invoice_Add.php">發票</a></li>
+        <li role="presentation"><a href="./Collections_Add.php">付款</a></li>
+        <li role="presentation"><a href="./Return_Add.php">退貨</a></li>
         <div class="col-lg-3">
           <a href="./Sales_Order_Search.php" class="btn btn-primary btn-sm">
             <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
